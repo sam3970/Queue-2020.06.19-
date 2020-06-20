@@ -1,6 +1,6 @@
 #include<iostream>
 #include<algorithm>
-#define MAX 11 //큐 사이즈
+#define MAX 9999 //큐 사이즈
 
 using namespace std;
 
